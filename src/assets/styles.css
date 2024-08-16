@@ -1,0 +1,19 @@
+.search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #search-form input[type="search"] {
+    flex: 1;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    margin-right: 8px;
+  }
+  
+  #search-spinner {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
